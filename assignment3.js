@@ -1,7 +1,4 @@
 // create a Book class
-
-const { BookType } = require("./utils/calculate");
-
 class Book{
     constructor(title,author,isbn,){
         this.title = title;
